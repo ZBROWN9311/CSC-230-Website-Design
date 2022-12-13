@@ -5,7 +5,7 @@ body{
    font-size: 16pt;
    width: 85%;
    margin: auto;
-   background-color: #fcf8e8;
+   background-color: #faf3d8;
  }
  
  ul{
@@ -15,17 +15,17 @@ body{
  }
  
  a{
-   color: #0a97b0;
+   color: #0ba2bd;
    text-decoration: none;
  }
  
  a:hover{
-   color: #ecb390;
+   color: #f1b38c;
  }
  
  
  .head{
-   background-color: #ecdfc8;
+   background-color: #eedec3;
    display: flex;
    flex-direction: row;
    justify-content: space-between;
@@ -65,13 +65,13 @@ body{
    width: 25%;
    margin: 0;
    padding: 0;
-   background-color: #ecdfc8;
+   background-color: #ebdbc1;
    width: 30%;
    text-align: center;
  }
  
  section{
-   background-color: #f5f5f5;
+   background-color: #f3ebeb;
    width: 75%;
  }
  
@@ -80,7 +80,7 @@ body{
  }
  
  .title{
-   background-color: #ecb390;
+   background-color: #eeb18c;
    font-family: arial, sans-serif;
    font-size: 22pt;
    letter-spacing: 2px;
@@ -91,7 +91,7 @@ body{
  .sub{
    font-family: arial, sans-serif;
    font-size: 16pt;
-   color: #df7861;
+   color: #dd7c66;
    margin: 15px;
    padding: 15px;
  }
@@ -103,13 +103,13 @@ body{
  
  .title-l{
    text-align: center;
-   background-color: lightgrey;
+   background-color: rgb(209, 203, 203);
    width: 100%;
  }
  
  footer{
    text-align: center;
-   background-color: #ecb390;
+   background-color: #eeb18c;
    padding: 20px 0 20px 0;
  }
  
